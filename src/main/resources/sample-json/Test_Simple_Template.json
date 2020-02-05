@@ -1,0 +1,17 @@
+{
+	"templateName":"testTemplate.ftl",
+	"data":[{
+		"id":101,
+		"name":"Jack",
+		"department":"IT",
+		"email":"jack007@test.com",
+		"mobile":"0000000000"
+	},
+	{
+		"id":102,
+		"name":"John",
+		"department":"HR",
+		"email":"john1234@test.com",
+		"mobile":"0000000001"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	"templateName":"StudentReport.ftl",
+	"data":{
+		"college":"Test College",
+		"rollNumber":1,
+		"name":"Peter",
+		"percentage":78.3,
+		"isPass" : true,
+		"address":{
+			"street":"Test Street",
+			"city":"Test City",
+			"state":"MH",
+			"housenumber":101
+		}
+	}
+}
